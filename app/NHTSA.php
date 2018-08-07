@@ -1,6 +1,6 @@
 <?php
 namespace App;
-class NHTSA 
+class Nhtsa 
 {
     const CAR_MODEL_YEAR='modelyear';
     const CAR_MAKE = 'make';

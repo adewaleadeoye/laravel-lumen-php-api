@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\ConnectClient;
-use App\NHTSA;
+use App\Nhtsa as NHTSA ;
 use Validator;
 
 class ApiController extends Controller
