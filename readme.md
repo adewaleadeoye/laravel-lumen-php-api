@@ -12,7 +12,7 @@ To run this project, your server must satisfy the following requirements
 ### How to install and run the project 
 Clone the project from Github
 ```
-git clone .....
+git clone https://github.com/adewaleadeoye/laravel-lumen-php-api.git
 ```
 On your terminal CD into the project directory
 ```
