@@ -14,9 +14,9 @@ Clone the project from Github
 ```
 git clone https://github.com/adewaleadeoye/laravel-lumen-php-api.git
 ```
-On your terminal CD into the project directory
+CD into the project directory
 ```
-cd <directory name> 
+cd laravel-lumen-php-api 
 ```
 Run Composer install to install dependencies and start php inbuilt webserver
 ```
