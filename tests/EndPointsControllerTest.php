@@ -6,8 +6,7 @@ use Laravel\Lumen\Testing\DatabaseTransactions;
 class EndPointControllerTest extends TestCase
 {
     /**
-     * A basic test example.
-     *
+     * 
      * @return void
      * 
      * @test
@@ -24,8 +23,7 @@ class EndPointControllerTest extends TestCase
     }
 
     /**
-     * A basic test example.
-     *
+     * 
      * @return void
      * 
      * @test
@@ -42,8 +40,7 @@ class EndPointControllerTest extends TestCase
     }
 
     /**
-     * A basic test example.
-     *
+     * 
      * @return void
      * 
      * @test
